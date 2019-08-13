@@ -29,7 +29,7 @@ int Solution::maximumGap(const vector<int> &A) {
     gap = gap/(A.size()-1);
     
     if(gap == 0){
-        return maxi - mini;
+        return maxi - mini;// This should acutally be changed, consider the input case [97 98 99 100 100], your function outputs 3, expected is 1...
     }
     
     for(int i = 0; i < A.size(); i++){
