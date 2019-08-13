@@ -29,7 +29,7 @@ int Solution::maximumGap(const vector<int> &A) {
     gap = gap/(A.size()-1);
     
     if(gap == 0){
-        return maxi - mini;
+        return maxi - mini; // Can you please explain this line? I mean if the gap is zero, why don't we return zero?
     }
     
     for(int i = 0; i < A.size(); i++){
