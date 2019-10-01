@@ -6,7 +6,7 @@ The repository contains solutions to various [problems](https://www.interviewbit
 <br/>
 **The code written is purely original & completely my own.**
 <br/>
-The solutions for the following types of questions are available :-
+The solutions for the following types of questions are available at :-
 
 * [Programming](https://www.interviewbit.com/courses/programming/)
 
